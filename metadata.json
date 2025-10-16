@@ -1,0 +1,5 @@
+{
+  "name": "Momentum: Personal Productivity Hub",
+  "description": "An all-in-one productivity dashboard to manage tasks, take notes with AI summarization, use a Pomodoro timer for focused work, and brainstorm new ideas with the Gemini API.",
+  "requestFramePermissions": []
+}
